@@ -1,6 +1,5 @@
 global printSpace is "We are in space! \o/".
 global spaceAlt is ship:body:atm:height.
-global shipApo is ship:orbit:apoapsis.
 
 global function normalVector {
   parameter dir is 1.
